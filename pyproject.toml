@@ -9,6 +9,10 @@ description = "Copy a list of files to OneDrive with rclone and verify each one 
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "GPL-3.0-or-later" }
+authors = [{ name = "Kanan Hooper" }]
+
+[project.urls]
+Author = "https://github.com/kananlanginhooper"
 
 [project.scripts]
 onedrive-rclone = "onedrive_rclone:main"

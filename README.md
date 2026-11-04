@@ -96,4 +96,7 @@ They run the whole tool against a fake rclone that keeps "OneDrive" in a temp fo
 
 ## License
 
-GPL-3.0. See `LICENSE`.
+Copyright (c) 2026 Kanan Hooper. GPL-3.0. See `LICENSE`.
+
+---
+Built by [Kanan Hooper](https://github.com/kananlanginhooper)
